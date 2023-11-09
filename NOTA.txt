@@ -1,0 +1,11 @@
+BASE DE DATOS
+host = "localhost"
+user = "root"
+password = ""
+base_de_datos = "abm_app"
+
+-----------------------------------------------------------------
+
+Hay un usuario ya creado para iniciar sesion en la base de datos.
+email = "roze@gmail.com"
+password = "12345"
