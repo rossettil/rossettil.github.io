@@ -66,7 +66,6 @@
     </nav>
     <div class="container mt-5">
         <h2>Productos</h2>
-
         <?php
         include("db.php");
         $query = "SELECT * FROM productos";

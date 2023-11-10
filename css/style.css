@@ -1,3 +1,7 @@
 .ptop {
     padding-top: 100px;
 }
+
+textarea {
+    resize: none;
+}

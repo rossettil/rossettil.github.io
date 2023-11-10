@@ -57,7 +57,7 @@
             </ul>
         </div>
     </nav>
-    <div class="container mt-4 ptop">
+    <div class="container mt-4 ptop" style="padding-top: 100px;">
         <div class="text-center">
             <img src="images/R.png" alt="ROZE STORE" width="200" height="200">
             <h1>Bienvenido a ROZE</h1>

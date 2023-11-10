@@ -60,7 +60,7 @@
     <div class="container">
         <div class="row justify-content-center mt-5">
             <div class="col-md-6">
-                <div class="card mtop">
+                <div class="card">
                     <div class="card-header bg-primary text-white text-center">
                         Iniciar Sesión
                     </div>
