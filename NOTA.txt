@@ -4,8 +4,12 @@ user = "root"
 password = ""
 base_de_datos = "abm_app"
 
------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 
 Hay un usuario ya creado para iniciar sesion en la base de datos.
 email = "roze@gmail.com"
 password = "12345"
+
+---------------------------------------------------------------------------------------
+
+Si el formulario de contacto no envia el mail, tal vez sea por la configuracion local.
